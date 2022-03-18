@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/74963879/158942302-2d84e54d-36fe-4da7-
 
 ## Motivation  
 
-My previous project on [Manipulated Network](#) implemented a set of basic Network Bending operations to a StyleGAN model. During the implementation process, I've come across plenty of quirks and oddities generated from corrupted models. These models produce impossible, distorted but realistic images, diverted from the original outputs and sometimes lead to aesthetic preoccupation. Although utilising machine autonomous, creating this collection is still like a craft: I marked configurations that cause these semantically meaningful results, revisited, tweaked and built the operation template again, and then re-examined the subsequent images. The decisions can be either arbitrary or intentional, sometimes deliberate, all in order to create potentially aesthetic results.  
+My previous project on [Manipulated Network](https://github.com/jasper-zheng/manipulated-network) implemented a set of basic Network Bending operations to a StyleGAN model. During the implementation process, I've come across plenty of quirks and oddities generated from corrupted models. These models produce impossible, distorted but realistic images, diverted from the original outputs and sometimes lead to aesthetic preoccupation. Although utilising machine autonomous, creating this collection is still like a craft: I marked configurations that cause these semantically meaningful results, revisited, tweaked and built the operation template again, and then re-examined the subsequent images. The decisions can be either arbitrary or intentional, sometimes deliberate, all in order to create potentially aesthetic results.  
 
 During this process, I see the generative model as a tool, more like a pen or a camera operating according to human instructions.   
 
@@ -31,7 +31,7 @@ Therefore, I hope to use a sketchbook as a medium to house these cooperated imag
 
 ## Implementation  
 
-Detailed implementation explained in my [Network Manipulation](#) project.  
+Detailed implementation explained in my [Network Manipulation](https://github.com/jasper-zheng/manipulated-network) project.  
 
 In the file `NetworkOperations.py`, 14 basic operations were implemented in the 'Block' class, which could be inserted after specific model layers. The modified StyleGAN model takes a dictionary variable as an operation plan.
 
