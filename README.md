@@ -13,7 +13,13 @@ The sketchbook is available at:
 [Compressed (2.7MB)](https://github.com/jasper-zheng/manipulated-network-sketchbook/blob/main/Manipulated_Network_Sketchbook_s_Jasper_Zheng.pdf).   
 It includes subsequent images with descriptive configurations that could recreate the manipulated model.  
 
-![selection](./git_graphics/collection.png)
+![selection](./git_graphics/collection.png)  
+
+
+
+https://user-images.githubusercontent.com/74963879/158942302-2d84e54d-36fe-4da7-b656-cf30a3d16412.mp4
+
+
 
 ## Motivation  
 
