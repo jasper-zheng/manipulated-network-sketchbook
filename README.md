@@ -100,3 +100,21 @@ operations = [{'resolution':4,
 ## Reflection  
 
 While delicate programs autonomously produce artworks, human elements can quickly be hidden by algorithmic processes. Therefore, I see Manipulated Network as an artistic technique to emphasise human elements in artworks created by generative models, expose individual variability, and find balances between machine autonomy and human creativity.  
+
+## References  
+
+
+T. Broad, F. Leymarie and M. Grierson, "Network Bending: Expressive Manipulation of Deep Generative Models", arXiv.org, 2022. [Online]. Available: https://arxiv.org/abs/2005.12420. [Accessed: 18- Mar- 2022].
+
+T. Karras, S. Laine and T. Aila, "A Style-Based Generator Architecture for Generative Adversarial Networks", arXiv.org, 2022. [Online]. Available: https://arxiv.org/abs/1812.04948. [Accessed: 18- Mar- 2022].  
+
+D. Bau, S. Liu, T. Wang, J. Zhu and A. Torralba, "Rewriting a Deep Generative Model", arXiv.org, 2022. [Online]. Available: https://arxiv.org/abs/2007.15646. [Accessed: 18- Mar- 2022].  
+
+O. Katzir, V. Perepelook, D. Lischinski and D. Cohen-Or, "Multi-level Latent Space Structuring for Generative Control", arXiv.org, 2022. [Online]. Available: https://arxiv.org/abs/2202.05910. [Accessed: 18- Mar- 2022].  
+
+
+K. Simonyan and A. Zisserman, "Very Deep Convolutional Networks for Large-Scale Image Recognition", arXiv.org, 2022. [Online]. Available: https://arxiv.org/abs/1409.1556. [Accessed: 18- Mar- 2022].  
+
+Y. Shen, J. Gu, X. Tang and B. Zhou, "Interpreting the Latent Space of GANs for Semantic Face Editing", arXiv.org, 2022. [Online]. Available: https://arxiv.org/abs/1907.10786. [Accessed: 18- Mar- 2022].  
+
+I. Alhashim and T. Andrey, "StyleGAN-Tensorflow2: StyleGAN - TensorFlow 2.0 implementation", GitHub, 2022. [Online]. Available: https://github.com/ialhashim/StyleGAN-Tensorflow2. [Accessed: 18- Mar- 2022].    
